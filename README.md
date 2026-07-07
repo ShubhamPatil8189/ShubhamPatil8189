@@ -27,7 +27,6 @@ Backend Software Engineer • MERN Stack Developer • Java Developer • AI Ent
 - 💻 Backend-oriented Software Engineer passionate about scalable backend systems
 - 🚀 Skilled in **Node.js**, **Express.js**, **MongoDB**, **REST APIs**, and **MERN Stack**
 - 🤖 Passionate about **Generative AI** and building AI-powered applications
-- 🌱 Currently learning **System Design**, **Cloud Computing**, and **Advanced Backend Development**
 - ⚡ Love solving DSA problems and building real-world projects
 
 ---
@@ -149,5 +148,5 @@ Backend Software Engineer • MERN Stack Developer • Java Developer • AI Ent
 
 - 📧 Email: **shubhampatil8189@gmail.com**
 - 💼 LinkedIn: **www.linkedin.com/in/shubham-patil-bb2a072bb**
-- 💻 GitHub: **https://github.com/ShubhamPatil8189**
+
 
