@@ -131,15 +131,15 @@ Backend Software Engineer • MERN Stack Developer • Java Developer • AI Ent
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubhamPatil8189&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPatil8189&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamPatil8189&theme=tokyonight"/>
 
 </p>
 
@@ -148,8 +148,8 @@ Backend Software Engineer • MERN Stack Developer • Java Developer • AI Ent
 # 📫 Connect With Me
 
 - 📧 Email: **shubhampatil8189@gmail.com**
-- 💼 LinkedIn: **YOUR_LINKEDIN_URL**
-- 💻 GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
+- 💼 LinkedIn: **www.linkedin.com/in/shubham-patil-bb2a072bb**
+- 💻 GitHub: **https://github.com/ShubhamPatil8189**
 
 ---
 
