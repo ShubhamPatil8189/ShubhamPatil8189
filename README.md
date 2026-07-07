@@ -119,10 +119,9 @@ Backend Software Engineer • MERN Stack Developer • Java Developer • AI Ent
 
 🏅 Diploma State Merit Rank **129**
 
-🚀 Finalist – **Odoo × Indus University Hackathon**
+🏆 **Hackathon Finalist – Odoo × Indus University Hackathon**
 
-- Top teams among **878 Teams**
-- **2500+ Participants**
+- Selected as a finalist from **878 teams** and **2,500+ participants** across India.
 
 ---
 
